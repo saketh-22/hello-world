@@ -1,7 +1,9 @@
 # hello-world
 just starting...
 
-A new repo./n
+A new repo.
+
 Pull request please.
+
 I like :coffee: and :pizza: . :smile:
 "www.instagram.com"
